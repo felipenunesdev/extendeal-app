@@ -39,8 +39,18 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Docker
+----
+### Levantar la app
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+docker build -t extendeal-app .
+docker run -p 3000:80 --name extendeal-app extendeal-app
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Se levanta la app en http://localhost:3000
+
+
+## Mock
+
+Para usar un mock en el lugar de la API, se tiene que cambiar el valor de la constante ```USE_MOCK``` a ```true``` en el archivo ```src/mock/productos-mock.json```

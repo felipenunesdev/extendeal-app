@@ -1,0 +1,556 @@
+{
+    "productos": [
+      {
+        "id": "5f8d0a44-d8e0-4d33-89fe-c545a567b4d6",
+        "nombre": "Tablet Alpha 8",
+        "categoria": "Tablet",
+        "especificaciones": [
+          {
+            "nombre": "Pantalla",
+            "descripcion": "8 pulgadas"
+          },
+          {
+            "nombre": "Procesador",
+            "descripcion": "Quad-core 2.4 GHz"
+          },
+          {
+            "nombre": "Almacenamiento",
+            "descripcion": "64 GB"
+          },
+          {
+            "nombre": "Memoria RAM",
+            "descripcion": "4 GB"
+          },
+          {
+            "nombre": "Batería",
+            "descripcion": "5000 mAh"
+          },
+          {
+            "nombre": "Sistema Operativo",
+            "descripcion": "Android 10"
+          }
+        ],
+        "precio": 299
+      },
+      {
+        "id": "8a70e75c-3ce8-4b93-8b7c-2a1d8e7b8b0e",
+        "nombre": "Consola de Juegos Vortex",
+        "categoria": "Consola de juegos",
+        "especificaciones": [
+          {
+            "nombre": "Procesador",
+            "descripcion": "Octa-core 3.5 GHz"
+          },
+          {
+            "nombre": "Almacenamiento",
+            "descripcion": "1 TB SSD"
+          },
+          {
+            "nombre": "Memoria RAM",
+            "descripcion": "16 GB"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "WiFi, Bluetooth, HDMI"
+          },
+          {
+            "nombre": "Resolución máxima",
+            "descripcion": "8K"
+          }
+        ],
+        "precio": 499
+      },
+      {
+        "id": "c3b2a049-cf4d-4df8-a5ea-6560c5c182db",
+        "nombre": "Reproductor de Música Zen",
+        "categoria": "Reproductor de música",
+        "especificaciones": [
+          {
+            "nombre": "Almacenamiento",
+            "descripcion": "32 GB"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "Bluetooth, USB-C"
+          },
+          {
+            "nombre": "Formatos soportados",
+            "descripcion": "MP3, FLAC, AAC, WAV"
+          },
+          {
+            "nombre": "Batería",
+            "descripcion": "36 horas de reproducción"
+          }
+        ],
+        "precio": 99
+      },
+      {
+        "id": "2d5ae7c4-3f7f-4ecc-8c22-34845fd7209b",
+        "nombre": "Auriculares Noiseless",
+        "categoria": "Auriculares",
+        "especificaciones": [
+          {
+            "nombre": "Tipo",
+            "descripcion": "Over-ear"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "Bluetooth 5.2, NFC"
+          },
+          {
+            "nombre": "Cancelación de ruido",
+            "descripcion": "Activa"
+          },
+          {
+            "nombre": "Batería",
+            "descripcion": "30 horas de reproducción"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Modo ambiente, Asistente de voz"
+          }
+        ],
+        "precio": 279
+      },
+      {
+        "id": "ad97b0d9-f3e5-4fab-bc1a-47621bdda91c",
+        "nombre": "Proyector Galaxy Beam",
+        "categoria": "Proyector",
+        "especificaciones": [
+          {
+            "nombre": "Resolución",
+            "descripcion": "1920x1080"
+          },
+          {
+            "nombre": "Lúmenes",
+            "descripcion": "3500"
+          },
+          {
+            "nombre": "Vida útil",
+            "descripcion": "50000 horas"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "HDMI, USB, WiFi"
+          },
+          {
+            "nombre": "Tamaño proyección",
+            "descripcion": "hasta 300 pulgadas"
+          }
+        ],
+        "precio": 599
+      },
+      {
+        "id": "f6b25e7b-9dfe-4a89-93c5-560d9e3d8f50",
+        "nombre": "Router UltraNet 5000",
+        "categoria": "Router",
+        "especificaciones": [
+          {
+            "nombre": "Bandas",
+            "descripcion": "Dual-Band"
+          },
+          {
+            "nombre": "Velocidad",
+            "descripcion": "hasta 5 Gbps"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "WiFi 6, Ethernet"
+          },
+          {
+            "nombre": "Seguridad",
+            "descripcion": "WPA3"
+          },
+          {
+            "nombre": "Puertos",
+            "descripcion": "4x Ethernet, 1x USB"
+          }
+        ],
+        "precio": 249
+      },
+      {
+        "id": "9f1d6c70-3b76-42e7-8df3-d60a1f6ed9c0",
+        "nombre": "Monitor ProView 27",
+        "categoria": "Monitor",
+        "especificaciones": [
+          {
+            "nombre": "Tamaño",
+            "descripcion": "27 pulgadas"
+          },
+          {
+            "nombre": "Resolución",
+            "descripcion": "4K UHD"
+          },
+          {
+            "nombre": "Tasa de refresco",
+            "descripcion": "144 Hz"
+          },
+          {
+            "nombre": "Tiempo de respuesta",
+            "descripcion": "1 ms"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "HDMI, DisplayPort, USB-C"
+          }
+        ],
+        "precio": 429
+      },
+      {
+        "id": "0e37df36-fb31-4ad7-8c8e-fd5e4b99a8a3",
+        "nombre": "Impresora 3D Creator Pro",
+        "categoria": "Impresora 3D",
+        "especificaciones": [
+          {
+            "nombre": "Volumen de construcción",
+            "descripcion": "200x200x180 mm"
+          },
+          {
+            "nombre": "Precisión",
+            "descripcion": "±0.1 mm"
+          },
+          {
+            "nombre": "Materiales soportados",
+            "descripcion": "PLA, ABS, PETG"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "SD card, USB"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Cama caliente, pantalla táctil"
+          }
+        ],
+        "precio": 749
+      },
+      {
+        "id": "e9c6c124-89c2-45d9-b8ed-4b0a8a1dbf20",
+        "nombre": "Teclado Mecánico Lightning",
+        "categoria": "Teclado",
+        "especificaciones": [
+          {
+            "nombre": "Tipo",
+            "descripcion": "Mecánico"
+          },
+          {
+            "nombre": "Iluminación",
+            "descripcion": "RGB personalizable"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "Cable USB, Bluetooth"
+          },
+          {
+            "nombre": "Layout",
+            "descripcion": "QWERTY (configurable)"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Reposamuñecas, Teclas programables"
+          }
+        ],
+        "precio": 129
+      },
+      {
+        "id": "1b5e5f8e-8b94-4b21-bc4b-cb9ebe0f9e2e",
+        "nombre": "Mouse Gamer UltraX",
+        "categoria": "Mouse",
+        "especificaciones": [
+          {
+            "nombre": "DPI",
+            "descripcion": "16000 ajustable"
+          },
+          {
+            "nombre": "Botones",
+            "descripcion": "8 programables"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "Cable USB, Inalámbrico"
+          },
+          {
+            "nombre": "Iluminación",
+            "descripcion": "RGB"
+          },
+          {
+            "nombre": "Peso",
+            "descripcion": "Ajustable"
+          }
+        ],
+        "precio": 79
+      },
+      {
+        "id": "5f87a3da-4f63-4ed7-ba48-5dab0dc8912b",
+        "nombre": "Altavoz Portátil BoomBox",
+        "categoria": "Altavoz",
+        "especificaciones": [
+          {
+            "nombre": "Potencia",
+            "descripcion": "20W"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "Bluetooth, AUX"
+          },
+          {
+            "nombre": "Batería",
+            "descripcion": "24 horas de reproducción"
+          },
+          {
+            "nombre": "Resistencia",
+            "descripcion": "Impermeable IPX7"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Micrófono incorporado, Asistente de voz"
+          }
+        ],
+        "precio": 99
+      },
+      {
+        "id": "20a4d9cf-d76c-449a-a9b6-372c5a2481b9",
+        "nombre": "Cargador Solar Portátil SunCharge",
+        "categoria": "Cargador",
+        "especificaciones": [
+          {
+            "nombre": "Capacidad",
+            "descripcion": "20000 mAh"
+          },
+          {
+            "nombre": "Paneles solares",
+            "descripcion": "2x"
+          },
+          {
+            "nombre": "Puertos",
+            "descripcion": "2x USB, 1x USB-C"
+          },
+          {
+            "nombre": "Resistencia",
+            "descripcion": "A prueba de agua y polvo"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Linterna LED, Indicador de carga"
+          }
+        ],
+        "precio": 59
+      },
+      {
+        "id": "334bc2f1-ebde-4aba-9853-77d658ddf3a6",
+        "nombre": "Disco Duro Externo SpeedStore 2TB",
+        "categoria": "Almacenamiento externo",
+        "especificaciones": [
+          {
+            "nombre": "Capacidad",
+            "descripcion": "2 TB"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "USB 3.0"
+          },
+          {
+            "nombre": "Velocidad de transferencia",
+            "descripcion": "hasta 5 Gbps"
+          },
+          {
+            "nombre": "Compatibilidad",
+            "descripcion": "Windows, macOS, Linux"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Resistente a golpes, Cifrado de hardware"
+          }
+        ],
+        "precio": 109
+      },
+      {
+        "id": "8af5a4d3-03e4-4a5b-8d8b-2d8cb8b8b8f8",
+        "nombre": "Brazalete Inteligente FitBand",
+        "categoria": "Wearable",
+        "especificaciones": [
+          {
+            "nombre": "Pantalla",
+            "descripcion": "OLED táctil"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "Bluetooth 4.2"
+          },
+          {
+            "nombre": "Batería",
+            "descripcion": "Hasta 7 días"
+          },
+          {
+            "nombre": "Resistencia al agua",
+            "descripcion": "5 ATM"
+          },
+          {
+            "nombre": "Funciones",
+            "descripcion": "Monitor de actividad, Notificaciones, Control de música"
+          }
+        ],
+        "precio": 49
+      },
+      {
+        "id": "ac3d5b79-ec3e-4120-b23b-8d1b8d8d4b7b",
+        "nombre": "Kit de Domótica HomeSmart",
+        "categoria": "Domótica",
+        "especificaciones": [
+          {
+            "nombre": "Componentes",
+            "descripcion": "Bombillas inteligentes, Enchufes inteligentes, Cámara de seguridad"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "WiFi, Zigbee"
+          },
+          {
+            "nombre": "Compatibilidad",
+            "descripcion": "Asistentes de voz, Aplicaciones móviles"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Programación de rutinas, Control remoto"
+          }
+        ],
+        "precio": 199
+      },
+      {
+        "id": "b6d767d2-f8b8-4a6f-exe4-5d7d3e67fec5",
+        "nombre": "Enfriador de Aire Portátil AirCool",
+        "categoria": "Climatización",
+        "especificaciones": [
+          {
+            "nombre": "Capacidad de enfriamiento",
+            "descripcion": "20m²"
+          },
+          {
+            "nombre": "Modos",
+            "descripcion": "Enfriamiento, Ventilador, Humidificador"
+          },
+          {
+            "nombre": "Consumo de energía",
+            "descripcion": "65W"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Filtro de aire, Control remoto, Temporizador"
+          }
+        ],
+        "precio": 129
+      },
+      {
+        "id": "22d50f62-4d7e-4f55-8333-5ae7d5b747b6",
+        "nombre": "Estación de Carga Inalámbrica QiTech",
+        "categoria": "Cargador",
+        "especificaciones": [
+          {
+            "nombre": "Compatibilidad",
+            "descripcion": "Dispositivos con Qi"
+          },
+          {
+            "nombre": "Potencia de salida",
+            "descripcion": "10W"
+          },
+          {
+            "nombre": "Indicadores",
+            "descripcion": "LED de estado"
+          },
+          {
+            "nombre": "Diseño",
+            "descripcion": "Antideslizante"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Carga rápida, Múltiples dispositivos"
+          }
+        ],
+        "precio": 39
+      },
+      {
+        "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+        "nombre": "Soporte de Monitor Dual StandDesk",
+        "categoria": "Accesorios de computadora",
+        "especificaciones": [
+          {
+            "nombre": "Compatibilidad",
+            "descripcion": "Hasta 32 pulgadas cada uno"
+          },
+          {
+            "nombre": "Ajustes",
+            "descripcion": "Altura, Inclinación, Giro"
+          },
+          {
+            "nombre": "Capacidad de carga",
+            "descripcion": "10 kg por brazo"
+          },
+          {
+            "nombre": "Montaje",
+            "descripcion": "Escritorio, mediante pinza o perforación"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Gestión de cables, Montaje fácil"
+          }
+        ],
+        "precio": 89
+      },
+      {
+        "id": "55d38baf-3d99-42d5-bfbb-6c4acd8a1112",
+        "nombre": "Luz LED para Fotografía PhotoPro",
+        "categoria": "Fotografía",
+        "especificaciones": [
+          {
+            "nombre": "Temperatura de color",
+            "descripcion": "3200K - 5600K ajustable"
+          },
+          {
+            "nombre": "Luminosidad",
+            "descripcion": "ajustable"
+          },
+          {
+            "nombre": "Alimentación",
+            "descripcion": "Batería recargable, USB"
+          },
+          {
+            "nombre": "Montaje",
+            "descripcion": "Sobre cámara, trípode"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Difusor, Control remoto"
+          }
+        ],
+        "precio": 59
+      },
+      {
+        "id": "3d6f0a7a-9ae2-4f59-8ec4-af4ad4a18c89",
+        "nombre": "Micrófono de Condensador StudioMic",
+        "categoria": "Audio profesional",
+        "especificaciones": [
+          {
+            "nombre": "Patrón polar",
+            "descripcion": "Cardioide"
+          },
+          {
+            "nombre": "Frecuencia",
+            "descripcion": "20Hz - 20kHz"
+          },
+          {
+            "nombre": "Conectividad",
+            "descripcion": "USB"
+          },
+          {
+            "nombre": "Compatibilidad",
+            "descripcion": "PC, Mac"
+          },
+          {
+            "nombre": "Extras",
+            "descripcion": "Filtro antipop, Soporte ajustable"
+          }
+        ],
+        "precio": 99
+      }
+    ]
+  }
